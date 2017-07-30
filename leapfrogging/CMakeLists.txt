@@ -12,6 +12,7 @@
 project(leapfrogging)
 
 file(GLOB src
+  ../../leapfrogging/leapfrogging.cpp
   "*.cpp"
 )
 
